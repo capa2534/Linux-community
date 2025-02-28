@@ -1,5 +1,6 @@
 # Linux-community 🐧💻
 
+Join the community: https://discord.gg/YhcyYRqx
 
 ## About 🔧✨
 
