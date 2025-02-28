@@ -16,7 +16,7 @@ A facilitator (rotating role) will lead each session and will be responsible for
 Encouraging Self-Learning:  Each participant will be responsible for studying topics of interest and bringing contributions or questions to the session.
 
 ### Weekly Challenges: tasks will be proposed for members to practice and reinforce what they've learned.
-### Collaborative Documentation: Members will contribute to a shared using threads, where the group's progress and key learnings will be documented. 
+Collaborative Documentation: Members will contribute to a shared using threads, where the group's progress and key learnings will be documented. 
 Weekly Thread Dynamics - use 
 ⁠weekly-challenges-topics
 
