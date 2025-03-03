@@ -2,11 +2,11 @@
 
 1 Created an EC2 Instance in AWS:
 
-    Chose an Amazon Machine Image (AMI), probably a Linux-based system (e.g., Amazon Linux, Ubuntu, or RHEL).
-    Selected an instance type (e.g., t2.micro for free tier usage).
-    Configured network settings (e.g., ensuring the correct inbound rules for SSH access).
-    Created or used an existing SSH key pair.
-    Launched the instance.
+Chose an Amazon Machine Image (AMI), probably a Linux-based system (e.g., Amazon Linux, Ubuntu, or RHEL).
+Selected an instance type (e.g., t2.micro for free tier usage).
+Configured network settings (e.g., ensuring the correct inbound rules for SSH access).
+Created or used an existing SSH key pair.
+Launched the instance.
                                  
 2 Checked the Public IP Address
     Found the Public IPv4 address or Public DNS under the EC2 instance details.
